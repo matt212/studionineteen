@@ -1,9 +1,10 @@
 // Image manifest is embedded so opening index.html directly (file://) works.
 const MEDIA = {
   "home": [
-    "./assets/images/Screen+Shot+2019-04-11+at+7.02.36+PM.jpg",
-     "./assets/images/Screen+Shot+2019-04-11+at+7.04.45+PM.jpg",
-     "./assets/images/Screen+Shot+2019-04-11+at+7.06.26+PM.jpg"
+    "./assets/images/WebsiteAD1.jpeg",
+     "./assets/images/WebsiteAD2.jpeg",
+     "./assets/images/WebsiteAD3.jpeg",
+     "./assets/images/WebsiteAD4.jpeg"
   ],
   "press": [
     {
